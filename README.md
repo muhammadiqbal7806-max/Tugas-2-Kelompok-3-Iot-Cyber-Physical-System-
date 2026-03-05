@@ -36,7 +36,7 @@ Alur kerja sistem pada proyek ini adalah sebagai berikut:
 
 ### Sensor DHT11 ke Arduino Uno
 
-**DHT11 to Arduino**
+
 | VCC to 5V |
 | GND to GND |
 | DATA to D2 |
