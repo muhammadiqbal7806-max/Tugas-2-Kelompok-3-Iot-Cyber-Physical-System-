@@ -43,7 +43,6 @@ Alur kerja sistem pada proyek ini adalah sebagai berikut:
 
 ### Komunikasi UART Arduino ke ESP32
 
-**Arduino ESP32**
 | TX (Pin 1) to RX2 (GPIO16) |
 | RX (Pin 0) to TX2 (GPIO17) |
 | GND to GND |
