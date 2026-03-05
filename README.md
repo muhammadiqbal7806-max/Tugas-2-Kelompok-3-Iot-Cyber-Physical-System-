@@ -1,4 +1,4 @@
-# Smart Factory Monitoring System (IoT)
+ Smart Factory Monitoring System (IoT)
 
 ## Deskripsi Proyek
 Proyek ini merupakan sistem monitoring suhu berbasis Internet of Things (IoT) yang digunakan untuk memantau kondisi suhu mesin pada lingkungan industri secara real-time. Sistem ini menggunakan sensor suhu untuk membaca kondisi lingkungan dan mengirimkan data tersebut ke platform IoT sehingga dapat dipantau oleh pengguna melalui dashboard.
