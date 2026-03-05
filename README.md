@@ -37,29 +37,27 @@ Alur kerja sistem pada proyek ini adalah sebagai berikut:
 ### Sensor DHT11 ke Arduino Uno
 
 **DHT11 to Arduino**
-| VCC | 5V |
-| GND | GND |
-| DATA | D2 |
+| VCC to 5V |
+| GND to GND |
+| DATA to D2 |
 
 ### Komunikasi UART Arduino ke ESP32
 
 **Arduino ESP32**
-|--------|------|
-| TX (Pin 1) | RX2 (GPIO16) |
-| RX (Pin 0) | TX2 (GPIO17) |
-| GND | GND |
+| TX (Pin 1) to RX2 (GPIO16) |
+| RX (Pin 0) to TX2 (GPIO17) |
+| GND to GND |
 
 ### LCD I2C ke ESP32
 
-| VCC | 5V |
-| GND | GND |
-| SDA | GPIO21 |
-| SCL | GPIO22 |
+| VCC to 5V |
+| GND to GND |
+| SDA to GPIO21 |
+| SCL to GPIO22 |
 
 ### LED ke ESP32
 
-| Anoda | GPIO4 |
-| Katoda | GND melalui resistor 220Ω |
+| Anoda to GPIO4 |
+| Katoda to GND melalui resistor 220Ω |
 
 
-## Struktur Proyek
